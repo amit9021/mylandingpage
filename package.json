@@ -1,7 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "https://yourusername.github.io/mylandingpage",
+  "homepage": "https://amit9021.github.io/mylandingpage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
