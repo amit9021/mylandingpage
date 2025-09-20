@@ -1,136 +1,193 @@
 {
-    "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+  "Header": {
+    "title": "GiftBox - מתנות מושלמות לכל אירוע",
+    "paragraph": "גלו את עולם המתנות המושלם שלנו! קופסאות מתנה מעוצבות, חבילות יוקרה ופתרונות מתנה ייחודיים לכל אירוע מיוחד בחיים שלכם."
+  },
+  "About": {
+    "paragraph": "ב-GiftBox אנחנו מאמינים שכל מתנה צריכה להיות חוויה מיוחדת. אנחנו מתמחים ביצירת קופסאות מתנה מעוצבות וייחודיות, חבילות יוקרה ופתרונות מתנה מותאמים אישית לכל אירוע - ימי הולדת, חתונות, חגים, או סתם כדי להפתיע מישהו מיוחד.",
+    "Why": [
+      "עיצוב ייחודי ומותאם אישית",
+      "איכות גבוהה וחומרים מעולים",
+      "מגוון רחב של פתרונות מתנה",
+      "שירות מקצועי ואדיב"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
-    },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
+    "Why2": [
+      "משלוח מהיר ובטוח",
+      "אריזה מעוצבת ומקצועית",
+      "מחירים תחרותיים",
+      "אחריות מלאה על המוצרים"
     ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "סגירת מרפסות",
+      "text": "פתרון מתקדם לסגירת מרפסות עם זכוכיות נאספות המאפשרות גמישות מלאה ושליטה על החלל החיצוני שלכם."
+    },
+    {
+      "icon": "fa fa-sun-o",
+      "name": "פרגולות אלומיניום",
+      "text": "פתרון ההצללה המושלם למרפסת שלכם. פרגולות אלומיניום עמידות, אלגנטיות ונטולות תחזוקה."
+    },
+    {
+      "icon": "fa fa-barcode",
+      "name": "זכוכיות נאספות",
+      "text": "מערכת זכוכיות נאספות מתקדמת המאפשרת פתיחה וסגירה קלה עם שמירה על אסתטיקה מודרנית."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "פתרונות הצללה",
+      "text": "מגוון פתרונות הצללה מתקדמים כולל סוככים ומסכי זיפ למיגון מקסימלי מפני השמש."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "שערים וגדרות",
+      "text": "פתרונות אבטחה מתקדמים עם שערים וגדרות אלומיניום עמידים ומעוצבים."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "תאורה ואביזרים",
+      "text": "מערכות תאורה ייחודיות ואביזרים נוספים לשיפור השימוש בפרגולה כמו מאווררים ורמקולים."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"חברה נהדרים! בנו לי פרגולת אלומיניום מצוינת, בדיוק לפי הדרישה, ביחס אדיב ומקצועי. מאוד מומלץ!\"",
+      "name": "רזיאל בן ישי"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"סגרו לי את המרפסת בצורה היפה ביותר!! פתרון מדהים ועכשיו אני יכולה לנצל את המרפסת שלי כל ימות השנה\"",
+      "name": "אור שוורץ"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"שירות מעולה ואיכות מוצר גבוהה. הפרגולה שהתקינו לנו עמידה כבר שנים ללא כל בעיה. מומלץ בחום!\"",
+      "name": "דוד כהן"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"הזכוכיות הנאספות שרכשתי מהם הן פשוט מושלמות. גמישות מלאה ונראות מדהימה. תודה רבה!\"",
+      "name": "שרה לוי"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"צוות מקצועי מאוד, הגיעו בזמן, עבדו בצורה נקייה ומסודרת. התוצאה מעבר לציפיות!\"",
+      "name": "מיכאל אברהם"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"אחרי שנים של חיפוש אחר פתרון מושלם למרפסת, סוף סוף מצאתי! משכית עושים עבודה מדהימה.\"",
+      "name": "רחל גולדברג"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "ישראל - משלוחים בכל הארץ",
+    "phone": "050-1234567",
+    "email": "info@giftbox.co.il",
+    "facebook": "giftbox.israel",
+    "twitter": "giftbox_israel",
+    "youtube": "giftbox_israel"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-shield",
+      "title": "עמידות מקסימלית",
+      "text": "פרגולות אלומיניום עמידות בתנאי מזג אוויר קשים, חסינות לחלודה וקורוזיה עם אחריות של 10 שנים."
+    },
+    {
+      "icon": "fa fa-cog",
+      "title": "תחזוקה מינימלית",
+      "text": "אין צורך בתחזוקה שוטפת, החומר אינו מושך מזיקים וניתן לניקוי קל ומהיר."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "title": "עיצוב מותאם",
+      "text": "מגוון צבעים רחב, אפשרות לעיצוב מותאם אישית וציפויים מיוחדים כמו דמוי עץ."
+    },
+    {
+      "icon": "fa fa-leaf",
+      "title": "ידידותי לסביבה",
+      "text": "חומרים ממוחזרים, תהליך ייצור נקי ופתרון אקולוגי לחלל החוץ שלכם."
+    }
+  ],
+  "Gallery": [
+    {
+      "thumb": "img/portfolio/01.webp",
+      "large": "img/portfolio/01-large.jpg",
+      "title": "פרגולת אלומיניום מודרנית",
+      "description": "פתרון הצללה אלגנטי למרפסת עם עיצוב מינימליסטי"
+    },
+    {
+      "thumb": "img/portfolio/02.webp",
+      "large": "img/portfolio/02-large.jpg",
+      "title": "סגירת מרפסת בזכוכיות נאספות",
+      "description": "פתרון מתקדם המאפשר גמישות מלאה בחלל החיצוני"
+    },
+    {
+      "thumb": "img/portfolio/03.webp",
+      "large": "img/portfolio/03-large.jpg",
+      "title": "פרגולה עם ציפוי דמוי עץ",
+      "description": "שילוב מושלם בין עמידות האלומיניום ליופי הטבעי"
+    },
+    {
+      "thumb": "img/portfolio/04.webp",
+      "large": "img/portfolio/04-large.jpg",
+      "title": "מערכת הצללה מתקדמת",
+      "description": "פתרון הצללה חכם עם שליטה מלאה על כמות האור"
+    },
+    {
+      "thumb": "img/portfolio/05.webp",
+      "large": "img/portfolio/05-large.jpg",
+      "title": "פרגולה עם תאורה מובנית",
+      "description": "שילוב של הצללה ותאורה לחוויה מושלמת בערב"
+    },
+    {
+      "thumb": "img/portfolio/06.webp",
+      "large": "img/portfolio/06-large.jpg",
+      "title": "פתרון הצללה למרפסת גדולה",
+      "description": "פרגולה רחבה המותאמת למרפסות גדולות ומרווחות"
+    },
+    {
+      "thumb": "img/portfolio/07.webp",
+      "large": "img/portfolio/07-large.jpg",
+      "title": "פרגולה עם מסכי זיפ",
+      "description": "שילוב של פרגולה ומסכי זיפ למיגון מקסימלי"
+    },
+    {
+      "thumb": "img/portfolio/01.webp",
+      "large": "img/portfolio/08-large.jpg",
+      "title": "עיצוב מותאם אישית",
+      "description": "פתרון ייחודי המותאם בדיוק לצרכים שלכם"
+    },
+    {
+      "thumb": "img/portfolio/02.webp",
+      "large": "img/portfolio/09-large.jpg",
+      "title": "פרגולה עם מערכת אוטומטית",
+      "description": "פתרון מתקדם עם שליטה אוטומטית וחכמה"
+    }
+  ]
 }

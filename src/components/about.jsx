@@ -1,35 +1,37 @@
 export const About = (props) => {
   return (
-    <div id='about'>
-      <div className='container'>
-        <div className='row'>
-          <div className='col-xs-12 col-md-6'>
-            {' '}
-            <img src='img/about.jpg' className='img-responsive' alt='' />{' '}
+    <div id="about" className="compact-about">
+      <div className="container">
+        <div className="row">
+          <div className="col-xs-12 col-md-4">
+            <img
+              src="img/heroimg/02.jpeg"
+              className="img-responsive about-image"
+              alt="GiftBox"
+            />
           </div>
-          <div className='col-xs-12 col-md-6'>
-            <div className='about-text'>
-              <h2>About Us</h2>
-              <p>{props.data ? props.data.paragraph : 'loading...'}</p>
-              <h3>Why Choose Us?</h3>
-              <div className='list-style'>
-                <div className='col-lg-6 col-sm-6 col-xs-12'>
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : 'loading'}
-                  </ul>
+          <div className="col-xs-12 col-md-8">
+            <div className="about-text">
+              <h2>אודות GiftBox</h2>
+              <p className="about-description">
+                {props.data ? props.data.paragraph : "loading..."}
+              </p>
+              <div className="features-grid">
+                <div className="feature-item">
+                  <i className="fa fa-gift"></i>
+                  <span>עיצוב ייחודי ומותאם אישית</span>
                 </div>
-                <div className='col-lg-6 col-sm-6 col-xs-12'>
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : 'loading'}
-                  </ul>
+                <div className="feature-item">
+                  <i className="fa fa-star"></i>
+                  <span>איכות גבוהה וחומרים מעולים</span>
+                </div>
+                <div className="feature-item">
+                  <i className="fa fa-truck"></i>
+                  <span>משלוח מהיר ובטוח</span>
+                </div>
+                <div className="feature-item">
+                  <i className="fa fa-shield"></i>
+                  <span>אחריות מלאה על המוצרים</span>
                 </div>
               </div>
             </div>
@@ -37,5 +39,5 @@ export const About = (props) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
